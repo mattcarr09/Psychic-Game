@@ -3,7 +3,7 @@
 }
 
 html, body{
-	color: #777777;
+	color: black;
 	background-image: url("");
 	border-color: #dddddd;
 	font-size: 18px;
@@ -11,7 +11,7 @@ html, body{
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	background-image: url("../images/magicBall.png");
     background-repeat: no-repeat;
-    background-color: #ffcfbc;  
+    background-color: white;  
     height: 100%;  	
 }
 .wrapper {
